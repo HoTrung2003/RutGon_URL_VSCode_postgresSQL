@@ -9,13 +9,12 @@ dễ chia sẻ, dễ quản lý.
 
 ## Công nghệ sử dụng
 
--   Ngôn ngữ lập trình: **JavaScript / Node.js** hoặc **ngôn ngữ bạn
-    dùng trong repo**
+-   Ngôn ngữ lập trình: **JavaScript / Node.js** 
 -   IDE: **Visual Studio Code**
 -   Cơ sở dữ liệu: **PostgreSQL**
--   Thư viện/Framework liên quan (tùy repo):
-    -   ExpressJS (nếu dùng Node.js)
-    -   pg / prisma (nếu kết nối PostgreSQL)
+-   Thư viện/Framework liên quan :
+    -   ExpressJS 
+    -   pg / prisma 
     -   Các thư viện hỗ trợ sinh mã ngẫu nhiên
 
 ## Chức năng chính
@@ -23,8 +22,8 @@ dễ chia sẻ, dễ quản lý.
 -   Rút gọn URL dài thành URL có mã ngắn.
 -   Tự động chuyển hướng khi truy cập URL rút gọn.
 -   Lưu trữ URL gốc và URL rút gọn trong PostgreSQL.
--   Thống kê số lượt truy cập (nếu có triển khai).
--   API tạo URL rút gọn (nếu repo có backend API).
+-   Thống kê số lượt truy cập .
+-   API tạo URL rút gọn .
 
 ## Cấu trúc thư mục (tham khảo)
 
